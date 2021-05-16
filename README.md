@@ -18,7 +18,7 @@ Original DataFrame:
 
 <br/>
 Final DataFrame:
-<img width="1001" alt="DF Final" src="https://user-images.githubusercontent.com/80112729/118389766-11fe6d80-b65e-11eb-9fc1-822a90a06c58.png">
+<img width="801" alt="DF Final" src="https://user-images.githubusercontent.com/80112729/118389766-11fe6d80-b65e-11eb-9fc1-822a90a06c58.png">
 
 </a>
 <br/>
