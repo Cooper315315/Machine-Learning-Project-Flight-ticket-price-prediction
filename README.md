@@ -65,3 +65,6 @@ Main competitors:
 <img width="500" alt="price predict" src="https://user-images.githubusercontent.com/80112729/118395228-c22e9f00-b67b-11eb-8820-5ee96b54c036.png">
 <br/>
 
+Future improvements:
+1. Add features into datasets
+2. Consider parameters affecting the ticket price(Service fee, fuel surcharge, date and time)
