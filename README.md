@@ -12,6 +12,9 @@ Deployed models:
 <br/>
 Original DataFrame:
 <img width="500" alt="DF" src="https://user-images.githubusercontent.com/80112729/118389719-c5b32d80-b65d-11eb-88e2-5844d2d74b02.png">
+<br/>
+
+<br/>
 Column Descriptions
 1. Unnamed: drop this column (it's a duplicate index column)
 2-3. ItinID & MktID: vaguely demonstrates the order in which tickets were ordered (lower ID #'s being ordered first)
