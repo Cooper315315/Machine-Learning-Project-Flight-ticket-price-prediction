@@ -42,3 +42,15 @@ Observe relationship between price per ticket vs miles:
 <img width="500" alt="Price vs Miles" src="https://user-images.githubusercontent.com/80112729/118390229-90f4a580-b660-11eb-9c05-11e18e34893e.png">
 From the above lineplot, a mild linear relationship is observed between price per ticket and miles.
 <br/>
+
+
+<br/>
+Searching for main competitors:
+<img width="986" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
+<br/>
+
+Main competitors: 
+WN -- Southwest Airlines Co.
+DL -- Delta Air Lines Inc. 
+AA -- American Airlines Inc.        
+UA -- United Air Lines Inc.
