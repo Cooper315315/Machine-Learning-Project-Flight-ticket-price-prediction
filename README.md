@@ -15,9 +15,11 @@ Original DataFrame:
 
 Check for correlations:
 <img width="989" alt="Correlation" src="https://user-images.githubusercontent.com/80112729/118389956-0fe8de80-b65f-11eb-843b-88d56d725ea5.png">
-
 From the correlation heat map, it is observed that “Miles” is the most correlated feature to the target feature (price), the rest have very little influence on the target feature.
 
+Observe relationship between price per ticket vs miles:
+<img width="1011" alt="Price vs Miles" src="https://user-images.githubusercontent.com/80112729/118390229-90f4a580-b660-11eb-9c05-11e18e34893e.png">
+From the above lineplot, a mild linear relationship is observed between price per ticket and miles.
 
 </a>
 <br/>
