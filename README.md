@@ -30,22 +30,21 @@ Column Descriptions:
 13. Airline Company: the two-letter airline company code that the user used from start to finish (key codes below)
 14. PricePerTicket: target prediction column
 
-
+<h3>Check for correlations:</h3>
 <br/>
-Check for correlations:
 <img width="500" alt="Correlation" src="https://user-images.githubusercontent.com/80112729/118389956-0fe8de80-b65f-11eb-843b-88d56d725ea5.png">
 From the correlation heat map, it is observed that “Miles” is the most correlated feature to the target feature (price), the rest have very little influence on the target feature.
 <br/>
 
 <br/>
-Observe relationship between price per ticket vs miles:
+<h3>Relationship between price per ticket vs miles:</h3>
 <img width="500" alt="Price vs Miles" src="https://user-images.githubusercontent.com/80112729/118390229-90f4a580-b660-11eb-9c05-11e18e34893e.png">
 From the above lineplot, a mild linear relationship is observed between price per ticket and miles.
 <br/>
 
 
 <br/>
-Searching for main competitors:
+<h3>Main competitors:</h3>
 <img width="986" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
 <br/>
 
