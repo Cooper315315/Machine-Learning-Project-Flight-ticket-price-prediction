@@ -50,7 +50,7 @@ Searching for main competitors:
 <br/>
 
 Main competitors: 
-WN -- Southwest Airlines Co.
-DL -- Delta Air Lines Inc. 
-AA -- American Airlines Inc.        
-UA -- United Air Lines Inc.
+1. WN -- Southwest Airlines Co.
+2. DL -- Delta Air Lines Inc. 
+3. AA -- American Airlines Inc.        
+4. UA -- United Air Lines Inc.
