@@ -54,3 +54,7 @@ Main competitors:
 3. AA -- American Airlines Inc.        
 4. UA -- United Air Lines Inc.
 
+Linear Regression:
+![image](https://user-images.githubusercontent.com/80112729/118394938-4d0e9a00-b67a-11eb-8d1a-4f3d31808171.png)
+
+
