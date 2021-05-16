@@ -53,3 +53,22 @@ Main competitors:
 2. DL -- Delta Air Lines Inc. 
 3. AA -- American Airlines Inc.        
 4. UA -- United Air Lines Inc.
+
+Code: 
+UA_y = United_Air['PricePerTicket']
+UA_X = United_Air.drop(columns='PricePerTicket')
+
+UA_X_train, UA_X_test, UA_y_train, UA_y_test = train_test_split(UA_X,UA_y,test_size=0.2,random_state=42 )
+
+lr = LinearRegression()
+lr.fit(UA_X_train, UA_y_train)
+
+UA_y_pred = lr.predict(UA_X_test)
+
+print('Coefficients: \n', lr.coef_)
+# The mean squared error
+print(f"Mean squared error:{mean_squared_error(UA_y_test, UA_y_pred): .2f}")
+print(f"Root Mean squared error: {math.sqrt(mean_squared_error(UA_y_test, UA_y_pred)) :.2f}")
+# Explained variance score: 1 is perfect prediction
+print(f'Variance score: {r2_score(UA_y_test, UA_y_pred):.2f}')
+print("mean price tickets: {}".format(UA_y_pred.mean()))
