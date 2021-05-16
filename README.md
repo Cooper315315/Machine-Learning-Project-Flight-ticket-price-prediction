@@ -1,7 +1,7 @@
 # Machine-Learning-Project
 
 
-<h3> 👨🏻‍💻 &nbsp; Goal: Flight ticket price prediction </h3>
+<h3>Goal: Flight ticket price prediction</h3>
 
 Deployed models:
 - Linear Regression.
@@ -10,7 +10,7 @@ Deployed models:
 - Decision Tree.
 
 <br/>
-Original DataFrame:
+<h3>Original DataFrame:</h3>
 <img width="500" alt="DF" src="https://user-images.githubusercontent.com/80112729/118389719-c5b32d80-b65d-11eb-88e2-5844d2d74b02.png">
 <br/>
 
