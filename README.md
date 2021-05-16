@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# Machine Learning Project: Flight ticket price prediction
 
 
 <h3>Goal: Flight ticket price prediction</h3>
