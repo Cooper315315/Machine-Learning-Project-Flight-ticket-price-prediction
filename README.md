@@ -14,22 +14,22 @@ Original DataFrame:
 <img width="500" alt="DF" src="https://user-images.githubusercontent.com/80112729/118389719-c5b32d80-b65d-11eb-88e2-5844d2d74b02.png">
 <br/>
 
-<br/>
-Column Descriptions
-  -1. Unnamed: drop this column (it's a duplicate index column)
-  -2-3. ItinID & MktID: vaguely demonstrates the order in which tickets were ordered (lower ID #'s being ordered first)
-  -4. MktCoupons: the number of coupons in the market for that flight
-  -5. Quarter: 1, 2, 3, or 4, all of which are in 2018
-  -6. Origin: the city out of which the flight begins
-  -7. OriginWac: USA State/Territory World Area Code
-  -8. Dest: the city out of which the flight begins
-  -9. DestWac: USA State/Territory World Area Code
-  -10. Miles: the number of miles traveled
-  -11. ContiguousUSA: binary column -- (2) meaning flight is in the contiguous (48) USA states, and (1) meaning it is not (ie: Hawaii, Alaska, off-shore territories)
-  -12. NumTicketsOrdered: number of tickets that were purchased by the user
-  -13. Airline Company: the two-letter airline company code that the user used from start to finish (key codes below)
-  -14. PricePerTicket: target prediction column
-<br/>
+
+Column Descriptions:
+1. Unnamed: drop this column (it's a duplicate index column)
+2-3. ItinID & MktID: vaguely demonstrates the order in which tickets were ordered (lower ID #'s being ordered first)
+4. MktCoupons: the number of coupons in the market for that flight
+5. Quarter: 1, 2, 3, or 4, all of which are in 2018
+6. Origin: the city out of which the flight begins
+7. OriginWac: USA State/Territory World Area Code
+8. Dest: the city out of which the flight begins
+9. DestWac: USA State/Territory World Area Code
+10. Miles: the number of miles traveled
+11. ContiguousUSA: binary column -- (2) meaning flight is in the contiguous (48) USA states, and (1) meaning it is not (ie: Hawaii, Alaska, off-shore territories)
+12. NumTicketsOrdered: number of tickets that were purchased by the user
+13. Airline Company: the two-letter airline company code that the user used from start to finish (key codes below)
+14. PricePerTicket: target prediction column
+
 
 <br/>
 Check for correlations:
