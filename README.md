@@ -45,7 +45,7 @@ From the above lineplot, a mild linear relationship is observed between price pe
 
 <br/>
 <h3>Main competitors:</h3>
-<img width="986" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
+<img width="500" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
 <br/>
 
 Main competitors: 
