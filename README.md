@@ -45,7 +45,7 @@ From the above lineplot, a mild linear relationship is observed between price pe
 
 <br/>
 <h3>Main competitors:</h3>
-<img width="500" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
+<img width="500" alt="competitors" src="https://user-images.githubusercontent.com/80112729/118394569-0324b480-b678-11eb-898f-757341a0c443.png">
 <br/>
 
 Main competitors: 
@@ -56,16 +56,12 @@ Main competitors:
 
 
 <br/>
-<h3>Linear Regression:</h3>
-<img width="500" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394938-4d0e9a00-b67a-11eb-8d1a-4f3d31808171.png">
+<h3>Variance score on different models:</h3>
+<img width="500" alt="VS" src="https://user-images.githubusercontent.com/80112729/118395188-927f9700-b67b-11eb-9750-3591a832d51e.png">
 <br/>
 
 <br/>
-<h3>Airlines comparison:</h3>
-<img width="500" alt="Miles" src="https://user-images.githubusercontent.com/80112729/118394993-90690880-b67a-11eb-8940-fc7aa76af7f8.png">
+<h3>Price predictions:</h3>
+<img width="500" alt="price predict" src="https://user-images.githubusercontent.com/80112729/118395228-c22e9f00-b67b-11eb-8820-5ee96b54c036.png">
 <br/>
 
-
-
-
-<br/>
