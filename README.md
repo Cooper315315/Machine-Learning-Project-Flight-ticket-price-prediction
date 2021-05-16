@@ -16,5 +16,8 @@ Original DataFrame:
 Check for correlations:
 <img width="989" alt="Correlation" src="https://user-images.githubusercontent.com/80112729/118389956-0fe8de80-b65f-11eb-843b-88d56d725ea5.png">
 
+From the correlation heat map, it is observed that “Miles” is the most correlated feature to the target feature (price), the rest have very little influence on the target feature.
+
+
 </a>
 <br/>
